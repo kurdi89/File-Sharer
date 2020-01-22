@@ -20,16 +20,17 @@ or
 npm start
 
 # Routes
-GET    /api/v1/codes # Get codes
+GET    /api/v1/data # Get files info
 
-GET    /share/:id
+GET    /share/:id/:requestType #view or download
 ```
 
 :+1:
 
 references:
-[fs Node.js](https://nodejs.org/api/fs.html)
-for the icons : [Demo](https://colorswall.github.io/CSS-file-icons/), [github](https://github.com/colorswall/CSS-file-icons)
+
+- [fs Node.js](https://nodejs.org/api/fs.html)
+- For the icons: [Demo](https://colorswall.github.io/CSS-file-icons/), [Github](https://github.com/colorswall/CSS-file-icons)
 
 notes:
 *this is does not use a MIMEtype, only the file extention. use only with reliable sources*
