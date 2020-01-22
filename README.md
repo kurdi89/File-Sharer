@@ -11,6 +11,8 @@ you will need Node.js on your machine download from [here](https://nodejs.org/en
 Start :
 
 ```bash
+git clone https://github.com/kurdi89/File-Sharer.git
+
 # Install dependencies
 npm install
 
