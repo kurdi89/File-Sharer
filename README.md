@@ -2,7 +2,7 @@
 
 # File Sharer
 
-> Node/Express API for a quick file sharing throw link or downlod.
+> Node/Express API for a quick file sharing throw link or downlod, clone this app to any directory and add the files to be shared in the "data" folder.
 
 ## Quick Start
 
